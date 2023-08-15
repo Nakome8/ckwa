@@ -2,7 +2,7 @@
 from typing import Dict
 
 ALL_INGREDIENTS = ('ham', 'mozzarella', 'parmesan', 'gorgonzola', 'onion', 'olive',
-                   'pepper', 'garlic', 'basil', 'mushroom', 'cheddar', 'oregano', 'chiken')
+                   'pepper', 'garlic', 'basil', 'mushroom', 'cheddar', 'oregano', 'dynamite')
 
 
 class UnknownIngredientException(Exception):
